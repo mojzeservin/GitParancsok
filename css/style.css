@@ -21,6 +21,7 @@ main{
     padding: 10px;
     display: flex;
     flex-direction: row;
+
 }
 footer{
     background-color: black;
@@ -32,8 +33,10 @@ footer{
     font-size: 12px;
 }
 .hozzavalok{
-
+    text-align: justify;
+    margin: 30px;
 }
 .elkeszites{
-    
+    text-align: justify;
+    margin: 30px;
 }
