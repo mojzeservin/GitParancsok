@@ -32,12 +32,8 @@ footer{
     font-size: 12px;
 }
 .hozzavalok{
-display: flex;
-flex-wrap: wrap;
-flex-direction: column;
+
 }
 .elkeszites{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
+    
 }
